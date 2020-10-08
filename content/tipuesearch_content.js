@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '★LIN,LUAN,HAO★', 'text': '★Imformation★\xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0  ★ 虎尾科技大學 五專部 ★ \n', 'tags': '', 'url': '★LIN,LUAN,HAO★.html'}]};
+var tipuesearch = {"pages": [{'title': '★LIN,LUAN,HAO★', 'text': '★Imformation★\xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0  ★ 虎尾科技大學 五專部 ★ \n \n hello', 'tags': '', 'url': '★LIN,LUAN,HAO★.html'}]};
